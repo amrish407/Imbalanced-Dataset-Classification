@@ -39,7 +39,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn tensorflow keras
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/amrish407/Imbalanced-Dataset-Classification.git
    ```
 2. Navigate to the project folder and open the respective Jupyter Notebook (.ipynb) files.
 3. Run the notebook cells sequentially.
